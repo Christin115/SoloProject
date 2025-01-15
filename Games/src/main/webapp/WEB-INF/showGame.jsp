@@ -16,7 +16,7 @@ pageEncoding="UTF-8" %>
 </head>
 <body>
 	<div class= "container">
-		<h2>${team.name}</h2>
+		<h2>${game.name}</h2>
 		<a href="/home" class="btn btn-link"> Dashboard</a>
 	</div>
 	
